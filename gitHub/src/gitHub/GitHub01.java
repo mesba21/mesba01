@@ -1,3 +1,4 @@
+
 package gitHub;
 
 public class GitHub01 {
@@ -6,7 +7,7 @@ public class GitHub01 {
 		
 		System.out.println(" my first git project");
 		System.out.println(" my first git project new line");
-		
+		System.out.println(" my ");
 
 	}
 
